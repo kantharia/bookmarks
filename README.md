@@ -1,3 +1,24 @@
+`20 August, 2017`
+
+> https://uxdesign.cc/product-design-for-sustainability-3fffbb2a7f0e
+
+> https://github.com/dwyl/learn-json-web-tokens
+
+> https://blog.nightly.mozilla.org/2017/07/17/preview-storage-api-in-firefox-nightly/
+
+
+
+`22 July, 2017`
+
+> https://www.troyhunt.com/life-is-about-to-get-harder-for-websites-without-https/
+
+> https://www.atlassian.com/blog/it-service-management/how-to-build-an-incident-response-plan
+
+> https://uxdesign.cc/product-design-for-sustainability-3fffbb2a7f0e
+
+> https://blog.nightly.mozilla.org/2017/07/17/preview-storage-api-in-firefox-nightly/
+
+
 `14 July, 2017`
 > https://thehackerblog.com/the-io-error-taking-control-of-all-io-domains-with-a-targeted-registration/
 
